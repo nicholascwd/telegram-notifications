@@ -1,0 +1,8 @@
+name = "chatopstelegramnotifications"
+main = "src/index.js"
+compatibility_date = "2022-07-11"
+
+# The necessary secrets are:
+# - BOT_TOKEN
+
+# Run `wrangler secret put <NAME> <VALUE>` for each of these
